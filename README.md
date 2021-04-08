@@ -10,6 +10,12 @@ Over the last 3 years, I help agencies and companies with modern web development
 
 My web development toolset contains technologies like Next.js, Gatsby, Prismic, Sanity, and DatoCMS to name a few, which deliver incredible performance, high security, amazing scalability and low expenses on maintenance.
 
+---
+
+### 🧰 Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/>
+
 <!--
 **DecadentIpsum/DecadentIpsum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
