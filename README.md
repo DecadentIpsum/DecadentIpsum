@@ -4,9 +4,9 @@
 
 My name is Andreas Zaralis and I have experience in ReactJS, GatsbyJS, NextJS, and Graphql as well as Typescript. 
 
-Over the last 3 years, I help agencies and companies with modern web development (JAMstack) tools. This includes web development using Static Site Generators, Headless CMS, CI / CD, and CDN setup. 
+Over the last 3 years, I help agencies and companies with modern web development (JAMstack) tools. This includes web development using Static Site Generators, Headless CMS, CI / CD, and CDN setup.
 
-My web development toolset contains technologies like Gatsby, Next.js, Contentful, and DatoCMS to name a few, which deliver incredible performance, high security, amazing scalability and low expenses on maintenance.
+My web development toolset contains technologies like Next.js, Gatsby, Prismic, Sanity, and DatoCMS to name a few, which deliver incredible performance, high security, amazing scalability and low expenses on maintenance.
 
 <!--
 **DecadentIpsum/DecadentIpsum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
