@@ -1,6 +1,6 @@
 [![](https://i.ibb.co/FVP8x0L/Group.png)](https://www.decadentipsum.me)
 
-### Hi there 👋
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Andreas Zaralis!
 
 My name is Andreas Zaralis and I have experience in ReactJS, GatsbyJS, NextJS, and Graphql as well as Typescript. 
 
