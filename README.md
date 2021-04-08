@@ -14,8 +14,8 @@ My web development toolset contains technologies like Next.js, Gatsby, Prismic, 
 
 ### 🧰 Toolbox
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANextjs-logo.svg&psig=AOvVaw2NxJeUgXpCk3QeTgzzXMLn&ust=1617954148380000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCDyIST7u8CFQAAAAAdAAAAABAD" alt="nextjs" width="50" height="50"/>
 
 <!--
 **DecadentIpsum/DecadentIpsum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
