@@ -14,7 +14,7 @@ My web development toolset contains technologies like Next.js, Gatsby, Prismic, 
 
 ### 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="CSS" width="50" height="50"/>
 
 <!--
 **DecadentIpsum/DecadentIpsum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
