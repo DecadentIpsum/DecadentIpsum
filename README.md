@@ -10,6 +10,12 @@ Over the last 3 years, I help agencies and companies with modern web development
 
 My web development toolset contains technologies like Next.js, Gatsby, Prismic, Sanity, and DatoCMS to name a few, which deliver incredible performance, high security, amazing scalability and low expenses on maintenance.
 
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DecadentIpsum&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=DecadentIpsum&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **DecadentIpsum/DecadentIpsum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
