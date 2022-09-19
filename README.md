@@ -36,6 +36,7 @@ My web development toolset contains technologies like Next.js, Gatsby, Prismic, 
 ![](https://img.shields.io/badge/Cloud-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=61ffca)
 ![](https://img.shields.io/badge/Cloud-AmazonAWS-informational?style=flat&logo=AmazonAWS&logoColor=white&color=61ffca)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=61ffca)
 
 ## &#x1f4c8; My GitHub Stats
 
