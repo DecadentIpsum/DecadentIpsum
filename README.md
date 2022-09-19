@@ -32,7 +32,7 @@ My web development toolset contains technologies like Next.js, Gatsby, Prismic, 
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=61ffca)
 ![](https://img.shields.io/badge/Tools-Prisma-informational?style=flat&logo=prisma&logoColor=white&color=61ffca)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=61ffca)
-![](https://img.shields.io/badge/Cloud-Netlify-informational?style=flat&logo=vercel&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/Cloud-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=61ffca)
 ![](https://img.shields.io/badge/Cloud-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=61ffca)
 ![](https://img.shields.io/badge/Cloud-AmazonAWS-informational?style=flat&logo=AmazonAWS&logoColor=white&color=61ffca)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=61ffca)
