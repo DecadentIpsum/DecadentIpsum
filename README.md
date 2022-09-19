@@ -13,18 +13,18 @@ My web development toolset contains technologies like Next.js, Gatsby, Prismic, 
 ## &#x1f4c8; My GitHub Stats
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=DecadentIpsum&show_icons=true&theme=radical&line_height=27">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=DecadentIpsum&show_icons=true&theme=nightowl&line_height=27">
 </p>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DecadentIpsum&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DecadentIpsum&theme=nightowl">
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DecadentIpsum&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DecadentIpsum&show_icons=true&locale=en&layout=compact&theme=nightowl&line_height=0" />
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=DecadentIpsum&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=DecadentIpsum&theme=nightowl">
 </p> 
 
