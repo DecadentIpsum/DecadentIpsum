@@ -82,6 +82,6 @@ My web development toolset contains technologies like Next.js, Gatsby, Prismic, 
 
 </br>
 
-<h2>Latest Tweets</h2>
+<h2>🐣 Latest Tweets</h2>
 <p align = "center"><a href="https://twitter.com/DecadentIpsum"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=DecadentIpsum&amp;layout=wide" alt="github-readme-twitter"></a></p>
 
