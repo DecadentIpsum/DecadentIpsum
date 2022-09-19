@@ -15,10 +15,8 @@ My web development toolset contains technologies like Next.js, Gatsby, Prismic, 
 
 ## 🔧 Languages
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=61ffca)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=61ffca)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=61ffca)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=61ffca)
-
+![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=React&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=Typescript-idea&logoColor=white&color=61ffca)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=react&logoColor=white&color=61ffca)
