@@ -14,7 +14,6 @@ Over the last 3 years, I help agencies and companies with modern web development
 My web development toolset contains technologies like Next.js, Gatsby, Prismic, Sanity, and DatoCMS to name a few, which deliver incredible performance, high security, amazing scalability and low expenses on maintenance.
 
 </br>
-</br>
 
 ## 🧩 Languages & Frameworks
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=61ffca)
@@ -26,7 +25,6 @@ My web development toolset contains technologies like Next.js, Gatsby, Prismic, 
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=61ffca)
 ![](https://img.shields.io/badge/Code-NestJS-informational?style=flat&logo=node.js&logoColor=white&color=61ffca)
 
-</br>
 </br>
 
 ## 🔧 Technologies & Tools
@@ -44,7 +42,6 @@ My web development toolset contains technologies like Next.js, Gatsby, Prismic, 
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=61ffca)
 ![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=61ffca)
 
-</br>
 </br>
 
 ## 📊 My GitHub Stats
