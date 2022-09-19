@@ -78,5 +78,10 @@ My web development toolset contains technologies like Next.js, Gatsby, Prismic, 
 
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=DecadentIpsum&theme=nightowl">
-</p> 
+</p>
+
+</br>
+
+<h2>Latest Tweets</h2>
+<p><a href="https://twitter.com/DecadentIpsum"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=mokkapps&amp;layout=wide" alt="github-readme-twitter"></a></p>
 
