@@ -44,6 +44,13 @@ My web development toolset contains technologies like Next.js, Gatsby, Prismic, 
 
 </br>
 
+## 🧩 Headless CMS Services
+![](https://img.shields.io/badge/HeadlessCMS-Sanity-informational?style=flat&logo=JavaScript&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/HeadlessCMS-Prismic-informational?style=flat&logo=React&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/HeadlessCMS-Contentful-informational?style=flat&logo=TypeScript&logoColor=white&color=61ffca)
+
+</br>
+
 ## 📊 My GitHub Stats
 
 <p align = "center">
