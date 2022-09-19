@@ -34,6 +34,7 @@ My web development toolset contains technologies like Next.js, Gatsby, Prismic, 
 ![](https://img.shields.io/badge/Tools-GraphQL-informational?style=flat&logo=GraphQL&logoColor=white&color=61ffca)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=61ffca)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=redis&logoColor=white&color=61ffca)
 ![](https://img.shields.io/badge/Tools-Prisma-informational?style=flat&logo=prisma&logoColor=white&color=61ffca)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=61ffca)
 ![](https://img.shields.io/badge/Cloud-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=61ffca)
@@ -41,13 +42,20 @@ My web development toolset contains technologies like Next.js, Gatsby, Prismic, 
 ![](https://img.shields.io/badge/Cloud-AmazonAWS-informational?style=flat&logo=AmazonAWS&logoColor=white&color=61ffca)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=61ffca)
 ![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=61ffca)
 
 </br>
 
-## 🧩 Headless CMS Services
-![](https://img.shields.io/badge/HeadlessCMS-Sanity-informational?style=flat&logo=JavaScript&logoColor=white&color=61ffca)
-![](https://img.shields.io/badge/HeadlessCMS-Prismic-informational?style=flat&logo=React&logoColor=white&color=61ffca)
-![](https://img.shields.io/badge/HeadlessCMS-Contentful-informational?style=flat&logo=TypeScript&logoColor=white&color=61ffca)
+## 🎯 Headless CMS Services
+![](https://img.shields.io/badge/HeadlessCMS-Sanity-informational?style=flat&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/HeadlessCMS-Prismic-informational?style=flat&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/HeadlessCMS-Contentful-informational?style=flat&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/HeadlessCMS-Storyblok-informational?style=flat&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/HeadlessCMS-Forestry-informational?style=flat&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/HeadlessCMS-NetlifyCMS-informational?style=flat&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/HeadlessCMS-DatoCMS-informational?style=flat&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/HeadlessCMS-GraphCMS-informational?style=flat&logoColor=white&color=61ffca)
+
 
 </br>
 
