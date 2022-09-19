@@ -1,5 +1,5 @@
 [![My personal site](https://i.ibb.co/sJ8V4wn/Group-1.jpg)](https://www.decadentipsum.me)
-<p><a href="https://www.twitter.com/DecadentIpsum"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=15141b&color=61ffca" height=25></a> <a href="https://www.linkedin.com/in/decadentipsum"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/decadentipsum/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
+<p><a href="https://www.twitter.com/DecadentIpsum"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=15141b&color=a277ff" height=25></a> <a href="https://www.linkedin.com/in/decadentipsum"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/decadentipsum/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
 
 <h1> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Nice to see you.</h1>
 
