@@ -1,4 +1,4 @@
-![](https://i.ibb.co/sJ8V4wn/Group-1.jpg)(https://www.decadentipsum.me)
+[![My personal site](https://i.ibb.co/sJ8V4wn/Group-1.jpg)](https://www.decadentipsum.me)
 
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Andreas Zaralis!
 
