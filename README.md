@@ -1,6 +1,6 @@
 [![My personal site](https://i.ibb.co/sJ8V4wn/Group-1.jpg)](https://www.decadentipsum.me)
 
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Andreas Zaralis!
+<h1> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Andreas Zaralis!</h1>
 
 ![twitter-follower](https://img.shields.io/twitter/follow/DecadentIpsum?style=social)
 
