@@ -14,6 +14,9 @@ My web development toolset contains technologies like Next.js, Gatsby, Prismic, 
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=DecadentIpsum&show_icons=true&theme=radical&line_height=27">
+</p>
+
+<p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DecadentIpsum&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
