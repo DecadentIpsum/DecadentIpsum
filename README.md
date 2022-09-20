@@ -3,7 +3,7 @@
   <a href="https://www.twitter.com/DecadentIpsum"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white&color=a277ff" height=22></a>
   <a href="https://www.linkedin.com/in/decadentipsum"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white&color=a277ff" height=22></a> 
   <a href="https://www.instagram.com/decadentipsum/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white&color=a277ff" height=22></a>
-   <a href="https://www.upwork.com/freelancers/zaralisandreas/"><img src="https://img.shields.io/badge/UpWork-6FDA44.svg?&style=flat&logo=upwork&logoColor=white&color=a277ff" height=22></a>
+   <a href="https://www.decadentIpsum.me"><img src="h[ttps://img.shields.io/badge/UpWork-6FDA44.svg?&style=flat&logo=upwork&logoColor=white&color=a277ff](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=61ffca)" height=22></a>
 </p>
 
 <p>   <a href="https://www.upwork.com/freelancers/zaralisandreas/"><img src="https://img.shields.io/badge/UpWork-6FDA44.svg?&style=flat&logo=upwork&logoColor=white&color=a277ff" height=22></a></p>
