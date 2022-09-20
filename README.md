@@ -4,9 +4,10 @@
   <a href="https://www.linkedin.com/in/decadentipsum"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white&color=a277ff" height=22></a> 
   <a href="https://www.instagram.com/decadentipsum/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white&color=a277ff" height=22></a>
    <a href="https://www.upwork.com/freelancers/zaralisandreas/"><img src="https://img.shields.io/badge/UpWork-6FDA44.svg?&style=flat&logo=upwork&logoColor=white&color=a277ff" height=22></a>
+  https://img.shields.io/github/followers/DecadentIpsum.svg?style=social&label=Follow&maxAge=2592000
 </p>
 
-<p><a color = "red" href="https://decadentipsum.me">💻 Check out my website</a></p>
+<p><a href="https://decadentipsum.me">💻 Check out my website</a></p>
 
 <h1> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, nice to see you.</h1>
 
