@@ -8,11 +8,11 @@
 
 <h1> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, nice to see you.</h1>
 
-My name is Andreas Zaralis and I have experience in ReactJS, GatsbyJS, NextJS, and Graphql as well as Typescript. 
+My name is Andreas Zaralis, a Front-End developer based on Greece.
 
-Over the last 3 years, I help agencies and companies with modern web development (JAMstack) tools. This includes web development using Static Site Generators, Headless CMS, CI / CD, and CDN setup.
+Over the last 4 years, I help agencies and companies with modern web development tools including the latest JAMStack technologies. This includes web development using Static Site Generators, Headless CMS, CI / CD, and CDN setup.
 
-My web development toolset contains technologies like Next.js, Gatsby, Prismic, Sanity, and DatoCMS to name a few, which deliver incredible performance, high security, amazing scalability and low expenses on maintenance.
+My web development toolset contains technologies like Next.js, GatsbyJS, TailwindCSS, Prisma, Sanity, Prismic, and DatoCMS to name a few, which deliver incredible performance, high security, amazing scalability and low expenses on maintenance.
 
 </br>
 
