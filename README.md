@@ -6,8 +6,6 @@
   <a href="https://www.upwork.com/freelancers/zaralisandreas/"><img src="https://img.shields.io/badge/UpWork-6FDA44.svg?&style=flat&logo=upwork&logoColor=white&color=a277ff" height=22></a>
 </p>
 
-<a href="https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=61ffca" height=22></a>
-
 <h1> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, nice to see you.</h1>
 
 My name is Andreas Zaralis and I have experience in ReactJS, GatsbyJS, NextJS, and Graphql as well as Typescript. 
