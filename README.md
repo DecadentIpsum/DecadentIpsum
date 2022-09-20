@@ -6,7 +6,7 @@
    <a href="https://www.upwork.com/freelancers/zaralisandreas/"><img src="https://img.shields.io/badge/UpWork-6FDA44.svg?&style=flat&logo=upwork&logoColor=white&color=a277ff" height=22></a>
 </p>
 
-<p><a href="https://decadentipsum.me">💻 Check out my website</a></p>
+<p><a color = "red" href="https://decadentipsum.me">💻 Check out my website</a></p>
 
 <h1> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, nice to see you.</h1>
 
