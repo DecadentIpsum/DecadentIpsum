@@ -8,7 +8,7 @@
 
 <h1> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, nice to see you.</h1>
 
-My name is Andreas Zaralis, a Front-End developer based on Greece.
+My name is Andreas Zaralis, a Front-End developer based in Greece.
 
 Over the last 4 years, I help agencies and companies with modern web development tools including the latest JAMStack technologies. This includes web development using Static Site Generators, Headless CMS, CI / CD, and CDN setup.
 
