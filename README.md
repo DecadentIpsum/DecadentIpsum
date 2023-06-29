@@ -29,7 +29,7 @@ I thrive when working on complex React-based web applications that challenge me 
 </br>
 
 ## 💇‍♀️ Styling
-![](https://img.shields.io/badge/Styling-CSS-informational?style=flat&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/Styling-CSS-informational?style=flat&logo=JavaScript&logoColor=white&color=61ffca)
 ![](https://img.shields.io/badge/Styling-TailwindCSS-informational?style=flat&logoColor=white&color=61ffca)
 ![](https://img.shields.io/badge/Styling-ChakraUI-informational?style=flat&logoColor=white&color=61ffca)
 ![](https://img.shields.io/badge/Styling-StyledComponents-informational?style=flat&logoColor=white&color=61ffca)
