@@ -46,14 +46,14 @@ I thrive when working on complex React-based web applications that challenge me 
 </br>
 
 ## 🎯 Headless CMS Services
-![](https://img.shields.io/badge/HeadlessCMS-Sanity-informational?style=flat&logoColor=white&color=61ffca)
-![](https://img.shields.io/badge/HeadlessCMS-Prismic-informational?style=flat&logoColor=white&color=61ffca)
-![](https://img.shields.io/badge/HeadlessCMS-Contentful-informational?style=flat&logoColor=white&color=61ffca)
-![](https://img.shields.io/badge/HeadlessCMS-Storyblok-informational?style=flat&logoColor=white&color=61ffca)
-![](https://img.shields.io/badge/HeadlessCMS-Forestry-informational?style=flat&logoColor=white&color=61ffca)
-![](https://img.shields.io/badge/HeadlessCMS-NetlifyCMS-informational?style=flat&logoColor=white&color=61ffca)
-![](https://img.shields.io/badge/HeadlessCMS-DatoCMS-informational?style=flat&logoColor=white&color=61ffca)
-![](https://img.shields.io/badge/HeadlessCMS-GraphCMS-informational?style=flat&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/HeadlessCMS-Sanity-informational?style=flat&logo=Sanity&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/HeadlessCMS-Prismic-informational?style=flat&logo=Prismic&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/HeadlessCMS-Contentful-informational?style=flat&logo=Contentful&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/HeadlessCMS-Storyblok-informational?style=flat&logo=Storyblok&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/HeadlessCMS-Forestry-informational?style=flat&logo=Forestry&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/HeadlessCMS-NetlifyCMS-informational?style=flat&logo=Netlify&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/HeadlessCMS-DatoCMS-informational?style=flat&logo=DatoCMS&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/HeadlessCMS-GraphCMS-informational?style=flat&logo=GraphCMS&logoColor=white&color=61ffca)
 
 </br>
 
