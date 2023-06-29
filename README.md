@@ -35,6 +35,25 @@ I thrive when working on complex React-based web applications that challenge me 
 ![](https://img.shields.io/badge/Styling-StyledComponents-informational?style=flat&logoColor=white&color=61ffca)
 ![](https://img.shields.io/badge/Styling-Mantine-informational?style=flat&logoColor=white&color=61ffca)
 
+</br>
+
+## 💇‍♀️ Artificial Intelligence
+![](https://img.shields.io/badge/AI-OpenAI-informational?style=flat&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/AI-LangChainJS-informational?style=flat&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/AI-BrainJS-informational?style=flat&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/AI-Tensorflow-informational?style=flat&logoColor=white&color=61ffca)
+
+</br>
+
+## 🎯 Headless CMS Services
+![](https://img.shields.io/badge/HeadlessCMS-Sanity-informational?style=flat&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/HeadlessCMS-Prismic-informational?style=flat&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/HeadlessCMS-Contentful-informational?style=flat&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/HeadlessCMS-Storyblok-informational?style=flat&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/HeadlessCMS-Forestry-informational?style=flat&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/HeadlessCMS-NetlifyCMS-informational?style=flat&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/HeadlessCMS-DatoCMS-informational?style=flat&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/HeadlessCMS-GraphCMS-informational?style=flat&logoColor=white&color=61ffca)
 
 </br>
 
@@ -54,19 +73,6 @@ I thrive when working on complex React-based web applications that challenge me 
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=61ffca)
 ![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=61ffca)
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=61ffca)
-
-</br>
-
-## 🎯 Headless CMS Services
-![](https://img.shields.io/badge/HeadlessCMS-Sanity-informational?style=flat&logoColor=white&color=61ffca)
-![](https://img.shields.io/badge/HeadlessCMS-Prismic-informational?style=flat&logoColor=white&color=61ffca)
-![](https://img.shields.io/badge/HeadlessCMS-Contentful-informational?style=flat&logoColor=white&color=61ffca)
-![](https://img.shields.io/badge/HeadlessCMS-Storyblok-informational?style=flat&logoColor=white&color=61ffca)
-![](https://img.shields.io/badge/HeadlessCMS-Forestry-informational?style=flat&logoColor=white&color=61ffca)
-![](https://img.shields.io/badge/HeadlessCMS-NetlifyCMS-informational?style=flat&logoColor=white&color=61ffca)
-![](https://img.shields.io/badge/HeadlessCMS-DatoCMS-informational?style=flat&logoColor=white&color=61ffca)
-![](https://img.shields.io/badge/HeadlessCMS-GraphCMS-informational?style=flat&logoColor=white&color=61ffca)
-
 
 </br>
 
