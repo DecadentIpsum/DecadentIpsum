@@ -21,10 +21,20 @@ I thrive when working on complex React-based web applications that challenge me 
 ![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=React&logoColor=white&color=61ffca)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=61ffca)
 ![](https://img.shields.io/badge/Code-NextJS-informational?style=flat&logo=node.js&logoColor=white&color=61ffca)
-![](https://img.shields.io/badge/Code-Remix-informational?style=flat&logo=node.js&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/Code-RemixJS-informational?style=flat&logo=node.js&logoColor=white&color=61ffca)
 ![](https://img.shields.io/badge/Code-GatsbyJS-informational?style=flat&logo=gatsby&logoColor=white&color=61ffca)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=61ffca)
 ![](https://img.shields.io/badge/Code-NestJS-informational?style=flat&logo=node.js&logoColor=white&color=61ffca)
+
+</br>
+
+## 💇‍♀️ Styling
+![](https://img.shields.io/badge/Styling-CSS-informational?style=flat&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/Styling-TailwindCSS-informational?style=flat&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/Styling-ChakraUI-informational?style=flat&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/Styling-StyledComponents-informational?style=flat&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/Styling-Mantine-informational?style=flat&logoColor=white&color=61ffca)
+
 
 </br>
 
