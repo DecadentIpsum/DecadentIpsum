@@ -38,10 +38,10 @@ I thrive when working on complex React-based web applications that challenge me 
 </br>
 
 ## 💇‍♀️ Artificial Intelligence
-![](https://img.shields.io/badge/AI-OpenAI-informational?style=flat&logoColor=white&color=61ffca)
-![](https://img.shields.io/badge/AI-LangChainJS-informational?style=flat&logoColor=white&color=61ffca)
-![](https://img.shields.io/badge/AI-BrainJS-informational?style=flat&logoColor=white&color=61ffca)
-![](https://img.shields.io/badge/AI-Tensorflow-informational?style=flat&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/AI-OpenAI-informational?style=flat&logo=OpenAI&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/AI-LangChainJS-informational?style=flat&logo=Langchain&logoColor=white&color=61ffca)
+![](https://img.shields.io/badge/AI-BrainJS-informational?style=flat&logo=BrainJSlogoColor=white&color=61ffca)
+![](https://img.shields.io/badge/AI-Tensorflow-informational?style=flat&logo=Tensorflow&logoColor=white&color=61ffca)
 
 </br>
 
