@@ -92,4 +92,4 @@ I thrive when working on complex React-based web applications that challenge me 
 
 </br>
 
-[![Andreas`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=decadentipsum&theme=github-compact)](https://github.com/yeazin/github-readme-activity-graph)
+[![Andreas github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=decadentipsum&theme=github-compact)](https://github.com/decadentipsum/github-readme-activity-graph)
