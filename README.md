@@ -90,12 +90,3 @@ I thrive when working on complex React-based web applications that challenge me 
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DecadentIpsum&show_icons=true&locale=en&layout=compact&theme=nightowl&line_height=0" />
 </p> 
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=DecadentIpsum&theme=nightowl">
-</p>
-
-</br>
-
-<h2>🐣 Latest Tweets</h2>
-<p align = "center"><a href="https://twitter.com/DecadentIpsum"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=DecadentIpsum&amp;layout=wide" alt="github-readme-twitter"></a></p>
-
