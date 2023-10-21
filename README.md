@@ -88,5 +88,8 @@ I thrive when working on complex React-based web applications that challenge me 
 
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DecadentIpsum&show_icons=true&locale=en&layout=compact&theme=nightowl&line_height=0" />
-</p> 
+</p>
 
+</br>
+
+[![Andreas`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=decadentipsum&theme=github-compact)](https://github.com/yeazin/github-readme-activity-graph)
