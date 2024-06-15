@@ -22,7 +22,6 @@ I thrive when working on complex React-based web applications that challenge me 
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=61ffca)
 ![](https://img.shields.io/badge/Code-NextJS-informational?style=flat&logo=node.js&logoColor=white&color=61ffca)
 ![](https://img.shields.io/badge/Code-RemixJS-informational?style=flat&logo=node.js&logoColor=white&color=61ffca)
-![](https://img.shields.io/badge/Code-GatsbyJS-informational?style=flat&logo=gatsby&logoColor=white&color=61ffca)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=61ffca)
 ![](https://img.shields.io/badge/Code-NestJS-informational?style=flat&logo=node.js&logoColor=white&color=61ffca)
 
