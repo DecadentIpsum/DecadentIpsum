@@ -1,6 +1,6 @@
 [![My personal site](https://i.ibb.co/sJ8V4wn/Group-1.jpg)](https://www.decadentipsum.me)
 <p>
-  <a href="https://www.twitter.com/DecadentIpsum"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white&color=a277ff" height=22></a>
+  <a href="https://www.x.com/DecadentIpsum"><img src="https://img.shields.io/badge/x-%231DA1F2.svg?&style=flat&logo=x&logoColor=white&color=a277ff" height=22></a>
   <a href="https://www.linkedin.com/in/decadentipsum"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white&color=a277ff" height=22></a> 
   <a href="https://www.instagram.com/decadentipsum/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white&color=a277ff" height=22></a>
   <a href="https://www.upwork.com/freelancers/zaralisandreas/"><img src="https://img.shields.io/badge/UpWork-6FDA44.svg?&style=flat&logo=upwork&logoColor=white&color=a277ff" height=22></a>
